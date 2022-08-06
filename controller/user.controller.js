@@ -2,7 +2,7 @@
 
 
 const getLoginForm = (req,res)=>{
-    return res.render('login/layour')
+    return res.render('login/layout')
 }
 
 const login = async(req,res)=>{}
